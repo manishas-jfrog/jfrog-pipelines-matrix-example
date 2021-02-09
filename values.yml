@@ -1,2 +1,3 @@
 repoPath: manishas-jfrog/jfrog-pipelines-matrix-example
 gitProvider: manishas_jfrog
+foo: bar
